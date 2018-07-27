@@ -145,4 +145,6 @@ pylab.title('mathematical pendulum')
 pylab.grid(True)
 pylab.xlabel('x')
 pylab.ylabel('y')
+
+pylab.savefig('pendulum.png')
 pylab.show()

@@ -58,5 +58,7 @@ pylab.plot(a,b)
 pylab.title('Radioactive decay N(t)')
 pylab.xlabel('time [t]')
 pylab.ylabel('N (t)')
+pylab.savefig('decay.png')
 pylab.show()
+
 
