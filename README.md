@@ -1,2 +1,2 @@
-# nauka
-repozytorium do nauki
+# numerical_methods
+
