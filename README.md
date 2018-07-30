@@ -1,2 +1,2 @@
-# Numerical_metods
-
+# nauka
+repozytorium do nauki
